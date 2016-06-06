@@ -20,9 +20,9 @@ sudo make install
 ```
 
 ####環境変数の設定
-
+```
 export LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
-
+```
 ####作ったコードのコンパイル
 
 ubuntuならば
