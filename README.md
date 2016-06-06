@@ -1,7 +1,7 @@
 # gsl_practice
 C言語の数値計算ライブラリのgslの練習です．
 
-##次の場所からgslの最新版
+###次の場所からgslの最新版
 gsl-latest.tar.gzをダウンロードする。
 http://public.p-knowledge.co.jp/gnu-mirror/gsl/
 
